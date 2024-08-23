@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yash Patel</h1>
-<h3 align="center">A passionate Full Stack Developer skilled in JavaScript · Google Firebase · Axios · Express.js · Go (Programming Language) · F# · Bootstrap (Framework) · CSS Flexbox · JUnit · Node.js · Object-Oriented Programming (OOP) · SQL · Microsoft SQL Server · MySQL · PhpMyAdmin · GitHub · Git · JavaFX · Swift (Programming Language) · C (Programming Language) · Java · C++</h3>
+<h3 align="center">A passionate Full Stack Developer skilled in JavaScript · Google Firebase · Axios · Express.js · HTML · CSS · Go (Programming Language) · F# · Bootstrap (Framework) · CSS Flexbox · JUnit · Node.js · Object-Oriented Programming (OOP) · SQL · Microsoft SQL Server · MySQL · PhpMyAdmin · GitHub · Git · JavaFX · Swift (Programming Language) · C (Programming Language) · Java · C++</h3>
 
 - 🌱 I’m currently learning **TypeScript and Vue.js**
 
